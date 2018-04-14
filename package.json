@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "static -a 0.0.0.0 -p $PORT"
+    "start": "webpack-dev-server --progress --hot --port 5000 --open"
   },
   "dependencies": {
     "d3-request": "^1.0.5",
