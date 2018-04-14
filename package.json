@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "webpack-dev-server --progress --hot --port 5000 --open"
+    "build": "webpack",
+    "start": "webpack-dev-server"
   },
   "dependencies": {
     "d3-request": "^1.0.5",
