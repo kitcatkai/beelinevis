@@ -16,5 +16,9 @@
     "buble-loader": "^0.4.0",
     "webpack": "^2.2.0",
     "webpack-dev-server": "^2.2.0"
-  }
+  },
+  "engines": {
+    "node": "5.0.0",
+    "npm": "4.6.1"
+  },
 }
